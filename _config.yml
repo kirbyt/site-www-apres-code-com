@@ -1,0 +1,16 @@
+url: http://www.kirbyturner.com
+baseurl: 
+
+# Site Settings
+title: Après Code
+author: Après Code
+description: "An informal gathering of software developers in Stowe, Vermont."
+keywords: "ios, mac, programming, stowe, vt, vermont, developer, software"
+# google-tracking-id: UA-167605-13
+
+# Career Settings
+# Default career thumbnail image.
+career-img: "img/career/default.jpg"
+
+exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+include: ["keybase.txt"]
