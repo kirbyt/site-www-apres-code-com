@@ -22,7 +22,7 @@
                     {% for page in sorted_pages %}
                     {% unless page.url == "/index.html" %}
                     <li>
-                        <a class="page-scroll" href="#{{ page.title }}">{{ page.title }}</a>
+                        <a class="page-scroll" href="#{{ page.title | replace: ' ', '-' }}">{{ page.title }}</a>
                     </li>
                     {% endunless %}
                     {% endfor %}
