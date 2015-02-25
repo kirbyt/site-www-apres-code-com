@@ -1,7 +1,7 @@
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
-git_repo = "https://github.com/kirbyt/site-www-aprescode-com.git"
+git_repo = "https://github.com/kirbyt/site-www-apres-code-com.git"
 
 ## -- Misc Configs -- ##
 
